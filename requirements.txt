@@ -1,3 +1,4 @@
 aiohttp
 appwrite
 beautifulsoup4
+requests
